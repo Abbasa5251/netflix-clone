@@ -21,6 +21,7 @@
 	margin-right: 0.6rem;
 	transition: transform 450ms;
 }
+
 .row__poster:hover {
 	transform: scale(1.06);
 }
